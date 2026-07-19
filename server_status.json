@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "servers": [
+    {
+      "id": "server1",
+      "name": "Dragon Isle",
+      "status": "online",
+      "population": "low",
+      "message_en": "",
+      "message_ar": "",
+      "maintenance_end": ""
+    }
+  ]
+}
