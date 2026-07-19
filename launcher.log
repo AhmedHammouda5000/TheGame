@@ -6,3 +6,15 @@
 [2026-07-19 22:04:19] [WARN] [News] News feed unreachable: HTTP/1.1 404 Not Found
 [2026-07-19 22:04:19] [WARN] [News] News feed unreachable: HTTP/1.1 404 Not Found
 [2026-07-19 22:04:19] [WARN] [Server] Status feed unreachable: HTTP/1.1 404 Not Found
+[2026-07-19 22:45:29] [INFO] [Server] Status feed OK: 1 server(s); selected 'Dragon Isle' = online.
+[2026-07-19 22:45:29] [WARN] [Updater] Manifest signature verification DISABLED (no public key configured). Never ship like this.
+[2026-07-19 22:45:29] [INFO] [News] News feed OK: 2 item(s).
+[2026-07-19 22:45:29] [INFO] [News] News feed OK: 2 item(s).
+[2026-07-19 22:45:29] [INFO] [Server] Status feed OK: 1 server(s); selected 'Dragon Isle' = online.
+[2026-07-19 22:46:20] [INFO] [Auth] Registration attempt for user 'abca5000'.
+[2026-07-19 22:46:21] [INFO] [Auth] Registration OK for 'abca5000'.
+[2026-07-19 22:46:21] [INFO] [Auth] Contact email set — verification email triggered by title rule.
+[2026-07-19 22:46:22] [WARN] [Launch] Launch token unavailable (CloudScript error: CloudScriptNotFound No function named CreateLaunchToken was found to execute). LEGACY HANDOFF in use — deploy CloudScript and disable allowLegacyLaunchWithoutToken before public release.
+[2026-07-19 22:46:22] [INFO] [Launch] Game started (pid 22892). Launcher minimizing.
+[2026-07-19 22:46:37] [INFO] [Launch] Game exited normally.
+[2026-07-19 22:46:37] [INFO] [News] News feed OK: 2 item(s).
