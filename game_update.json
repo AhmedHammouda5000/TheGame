@@ -1,0 +1,1550 @@
+{
+  "version": "1.0.1",
+  "type": "game",
+  "release_notes": "YYYYYYYYYYYow",
+  "published_at": "2026-07-19T22:26:35Z",
+  "files": [
+    {
+      "path": "GameContent/D3D12/D3D12Core.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/D3D12/D3D12Core.dll",
+      "size": 4725304,
+      "sha256": "625bd40005b1c3708695d5256ecf230d278e6b8edba5a88af70f3d91324f3052"
+    },
+    {
+      "path": "GameContent/ddProject_Game.exe",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game.exe",
+      "size": 667648,
+      "sha256": "fe5e81292df0f6591dceec172141b6f0f22d7cbb853de83786b725e1bc68beee"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/app.info",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/app.info",
+      "size": 33,
+      "sha256": "1111fc7eec9237e73131bb9a0f6911727192001699e69d8730e0c49008d1602e"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/boot.config",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/boot.config",
+      "size": 173,
+      "sha256": "29130a44653f7018db4392d756668a90f04c670b90b51be4c7e35952f812378c"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/globalgamemanagers",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/globalgamemanagers",
+      "size": 415668,
+      "sha256": "e4926c51e9f41f6caab6dc11e00071d0adbd4aa7cac81993b5719c2dccd6783d"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/globalgamemanagers.assets",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/globalgamemanagers.assets",
+      "size": 1381096,
+      "sha256": "2ca2960402128a46058c6f3acf1b5b5f10543c183999e763ef2dd9c9c9602bae"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/globalgamemanagers.assets.resS",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/globalgamemanagers.assets.resS",
+      "size": 5716192,
+      "sha256": "f2e891f1a2eca090fd71651b299b57c89b6f16599aee6dd338e290ba791e314b"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/level0",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/level0",
+      "size": 586092,
+      "sha256": "c0d71f74af1553c224c721f1daea32fa3616cc2a7b5c8f533c8676787fb90c79"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/level1",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/level1",
+      "size": 13656,
+      "sha256": "da71029db5720587b03a0979543a649a4cd97a8e01a3b856c45e21768d03f6f1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/level2",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/level2",
+      "size": 1940,
+      "sha256": "a5c9584f8baa0c93557f614202972a7b8ccd0ec6155dfec2c13655e9d4e4a345"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Assembly-CSharp.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Assembly-CSharp.dll",
+      "size": 679936,
+      "sha256": "cefccf23051c713166d2db70cec491bc027a5b7213b6aad6ecc92f1e0e9eee4a"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Cinemachine.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Cinemachine.dll",
+      "size": 311808,
+      "sha256": "7b516bb6bf865a156054d5c7b776d7f2cc3b22705442e08e903a260e3f329357"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/com.IvanMurzak.Unity.MCP.Animation.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/com.IvanMurzak.Unity.MCP.Animation.Runtime.dll",
+      "size": 13824,
+      "sha256": "95a8298e522ed6b0eaddb02706bb7ada43a5e1e088e7ad1dd824d18516489cf0"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/com.IvanMurzak.Unity.MCP.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/com.IvanMurzak.Unity.MCP.Runtime.dll",
+      "size": 183808,
+      "sha256": "24f136f6199d176a40ec8879e24eccddd577502644cabdedbe79d615d08d483f"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/com.IvanMurzak.Unity.MCP.TestFiles.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/com.IvanMurzak.Unity.MCP.TestFiles.dll",
+      "size": 12800,
+      "sha256": "772027e2b1599865469685469ba5723477256bba2cd4d7174ff0ffc6f091d3a5"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Extensions.Unity.PlayerPrefsEx.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Extensions.Unity.PlayerPrefsEx.dll",
+      "size": 29696,
+      "sha256": "4533e907ee7bf5aa6341c935095ed1fd62cf482662352c623d9810c959a020df"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/kcp2k.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/kcp2k.dll",
+      "size": 38400,
+      "sha256": "0fe13ec5a40a1dd0e565fa8213d699800467570caa79ad7e45cc1a8bcdb8ff77"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/McpPlugin.Common.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/McpPlugin.Common.dll",
+      "size": 60416,
+      "sha256": "08df2577fb05a41dc407d3fd3dfd0e232238b7296e8cb3482ba73d5d4fb0e8c8"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/McpPlugin.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/McpPlugin.dll",
+      "size": 301568,
+      "sha256": "3855289c05292045ecf33cd8f24740c1296d94d659e364496d280e432b688679"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "size": 41264,
+      "sha256": "b0112096de7f764be03ca966cf3c9a13ca186e77bdfa3cdd9d2df3e5bdbf04c9"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.Http.Connections.Client.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.Http.Connections.Client.dll",
+      "size": 121640,
+      "sha256": "d4bf0364745c05a9e8c7024ac58725d9d069896f3bce633353a0057baec5794a"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "size": 31528,
+      "sha256": "af3e7b9c8bb9aa352468d9483d7565b22b32b742ed1a393a1a56524e7c02af55"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "size": 199448,
+      "sha256": "5189c7d994fe8d6e6a2699beaca89fdf3fc226ab59085766e4d209bbcd9bd182"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.SignalR.Client.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.SignalR.Client.dll",
+      "size": 24376,
+      "sha256": "9ad116fd737283c414bb9e4eb03a9791955674850091264b2af3a99ed7a7aa4f"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.SignalR.Common.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.SignalR.Common.dll",
+      "size": 44840,
+      "sha256": "1645e09f54d861a0a966ad600232c4dc55295e6f54a252a425aa2052134186e7"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "size": 39688,
+      "sha256": "9562c415b61af21d4c92b80190abc2249435437eb4279824524954e0bd419530"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Bcl.AsyncInterfaces.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Bcl.AsyncInterfaces.dll",
+      "size": 19104,
+      "sha256": "136d5965cf4768e8420b547a8bddea882921f426c371833d558a858a2f0c235a"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Bcl.TimeProvider.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Bcl.TimeProvider.dll",
+      "size": 32432,
+      "sha256": "44cf869c35153c510505052ad85364f7591a791342bd5e4f52c8dc6dd181d84f"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.CodeAnalysis.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.CodeAnalysis.dll",
+      "size": 4706480,
+      "sha256": "aab3674134122f9c04fcb55a2d1af2d19342cf92a1e593159236dfbce05de59c"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Caching.Abstractions.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Caching.Abstractions.dll",
+      "size": 34576,
+      "sha256": "c2597940e5ca6d717b378456905fec1945c30d7989d65f6a0e712a747df0c85c"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Configuration.Abstractions.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Configuration.Abstractions.dll",
+      "size": 30992,
+      "sha256": "01bc4348be66184ee5c453157e078d11be6451d7e684db9d38035149cd2212d9"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "size": 63648,
+      "sha256": "6c479c61bd03ac7cac4421e5a5689359cb83634e06895eb2d93b4b6df2773dc0"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.DependencyInjection.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.DependencyInjection.dll",
+      "size": 96040,
+      "sha256": "e23df94fc2bca057bd88d87c18afc22fb41281f41d3b38430c483ee6fc95d53b"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Diagnostics.Abstractions.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Diagnostics.Abstractions.dll",
+      "size": 34600,
+      "sha256": "adb1206b247f42fb5611d8798d9f44b7be1bd6d2a6976d87ff95ef2e6c17b6db"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Features.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Features.dll",
+      "size": 29448,
+      "sha256": "6ae042121467e32c466e07ac360c6fc5395d67d8bd8043dc6137d1b9e7485e06"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "size": 25864,
+      "sha256": "e6074cf1392c6d77d379efcb241cc8e0ac984d27ebf16ad17b979bd49ab2b4c3"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Hosting.Abstractions.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Hosting.Abstractions.dll",
+      "size": 54568,
+      "sha256": "d39cfc54d4b0419a5c05bbc4915553bb6295134c66f904ae546e8fdbcec7c23d"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Logging.Abstractions.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Logging.Abstractions.dll",
+      "size": 67864,
+      "sha256": "79f67ff002712d6589370db25f751d3f53fb49ef1a6d750d1c62419ef3a4392c"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Logging.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Logging.dll",
+      "size": 52896,
+      "sha256": "64c8cbe07b84a8b319ee37b444386c67308178517c86de366a9a45c668ceec23"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Options.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Options.dll",
+      "size": 68880,
+      "sha256": "4f80160a712ef065a64ec3c23e87746130462377fe39f82b35673d1567281001"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Primitives.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Microsoft.Extensions.Primitives.dll",
+      "size": 49936,
+      "sha256": "6d492e7919789c7ab3d4afb5d2e5841cc0e2f28b07bf561bd1fcf8945e2170b3"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Mirror.Authenticators.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Mirror.Authenticators.dll",
+      "size": 35328,
+      "sha256": "cf540dbe719f14515515fab052c7360f2086d75050b14af2b6c9e4337872892e"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Mirror.BouncyCastle.Cryptography.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Mirror.BouncyCastle.Cryptography.dll",
+      "size": 6856192,
+      "sha256": "860787fa58288910f9ef0b3147ac1df96623d4d7bd7bc309c9161871b0819fcf"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Mirror.Components.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Mirror.Components.dll",
+      "size": 183296,
+      "sha256": "81d57f155b876a6b234961f42c6511561649d945d9d3a51e5e06393ee2dbe6b4"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Mirror.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Mirror.dll",
+      "size": 243712,
+      "sha256": "ab220a3a6ab1f82bcbcaa17997b7d8feaae945cc16bba578661e17e7a0c567b1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Mirror.Transports.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Mirror.Transports.dll",
+      "size": 95744,
+      "sha256": "7423f57936b85091a4f3a740a3ab93bbbbdcc58f4e63ed8d709ddf361859dba0"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Mono.Security.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Mono.Security.dll",
+      "size": 241152,
+      "sha256": "9838776992dc44ebe2aff2e9ec52c292024f5464542897aa5d29429a921437b9"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/mscorlib.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/mscorlib.dll",
+      "size": 4632064,
+      "sha256": "eaf6b07fd716403e8fedc054bdd1650142d1dc95d34c01d9485de97b5a0dd84b"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/netstandard.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/netstandard.dll",
+      "size": 90112,
+      "sha256": "6ae62e082dc494a2433984177f60ca4db5fae69b1f360a8b33754172b310b8c5"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Newtonsoft.Json.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Newtonsoft.Json.dll",
+      "size": 691712,
+      "sha256": "a56146202232958f46bd6a28b5a7da166aea123ee0d646735a46e5c341dfbf1f"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Nobi.UiRoundedCorners.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Nobi.UiRoundedCorners.dll",
+      "size": 8192,
+      "sha256": "0e85cdaab19fd577d8e2c4364a1196e7c4f40a52e690a7d396b54ae8db4b79d6"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/PlayFab.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/PlayFab.dll",
+      "size": 1047040,
+      "sha256": "43f06d558fefbafb8c55a4fda917c4aa29de24b8bc0d3e6b0f1f92cb42da1f6d"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/R3.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/R3.dll",
+      "size": 601600,
+      "sha256": "48af716f8ace2fd771241de7e3ebd9ee54bffeafeed14a1ddd69df4ac61226db"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/ReflectorNet.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/ReflectorNet.dll",
+      "size": 232448,
+      "sha256": "dbbab83854832cfa0e5221673dcb2729cfeffc95c16c865b4cdd2993311c7a58"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/SimpleWebTransport.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/SimpleWebTransport.dll",
+      "size": 53760,
+      "sha256": "78dc91731ef7543b992f4d7bd38b893b97e26274aba757d485695703c6db7b7a"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Buffers.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Buffers.dll",
+      "size": 4608,
+      "sha256": "762f8fdbe975e05b76be5fe996c53ce7c75e4a2830f2f50b02a5948ef6ba0aeb"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Collections.Immutable.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Collections.Immutable.dll",
+      "size": 198776,
+      "sha256": "1255194f6ec9c1874085cdab24495fcd1430958018350d7b6630fd04b44bcb81"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.ComponentModel.Annotations.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.ComponentModel.Annotations.dll",
+      "size": 89992,
+      "sha256": "c46069e29ad23fee7f5d2ced736ffea27b0177f82341296d9af6325acf821c69"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.ComponentModel.Composition.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.ComponentModel.Composition.dll",
+      "size": 257024,
+      "sha256": "a30fdde214493b540a5a169aa1729ff494d46f519d9c9a036746967c0845e764"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Configuration.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Configuration.dll",
+      "size": 124928,
+      "sha256": "223a6629bb9debb0327082da3e525860e734f231274d0f6bb83a164df778b779"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Core.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Core.dll",
+      "size": 1113088,
+      "sha256": "db725196b862d96beefb95bbb6693f892a12dc401b5c044660d13789e45c255d"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Data.DataSetExtensions.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Data.DataSetExtensions.dll",
+      "size": 29696,
+      "sha256": "1d6f66f38cabd57b3d099804593ce5144e22921871dfdf0d6487a4bc725b9c8b"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Data.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Data.dll",
+      "size": 2125312,
+      "sha256": "f1e0909723a04b1b8ba3630593893e1a4683b391349b79697b8958d7e897a68f"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Diagnostics.DiagnosticSource.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Diagnostics.DiagnosticSource.dll",
+      "size": 175280,
+      "sha256": "989b1797b5cacdf19e7130eddd8ae51f0d79595d6020cbaf51910c1c3637cec9"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.dll",
+      "size": 2641920,
+      "sha256": "c3c900393effd00a0d36f1dfd317ffe0f19744aad0c3d9c0b10e5f4d5a00bdd7"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Drawing.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Drawing.dll",
+      "size": 489984,
+      "sha256": "630aeba7b15de154e6faf86270eaaf6921ab2b5e9dd2273382e3a0df8ed918ad"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.EnterpriseServices.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.EnterpriseServices.dll",
+      "size": 44544,
+      "sha256": "e0bd4c9aa95b3264e2bc5c43404637447de098829be95d5364a50c286651ede1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.IO.Compression.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.IO.Compression.dll",
+      "size": 114688,
+      "sha256": "11877b20d2c14bb0eb208f3e20f102ddd3c78b8c5d18edcea935dd5960e48449"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "size": 18432,
+      "sha256": "738c6ea02bb89c69473f8e128f077cb6f7d62b04e7928e0e244ea7a991e65853"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.IO.Hashing.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.IO.Hashing.dll",
+      "size": 50488,
+      "sha256": "ac7ac3e83805b0b621c48b90543dc733c9a89106835278618357d6187e3da74e"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.IO.Pipelines.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.IO.Pipelines.dll",
+      "size": 84128,
+      "sha256": "3702e2403cf265588d1544a292ea17c01d337cdb91b5bdd64690894331345ad4"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Memory.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Memory.dll",
+      "size": 4608,
+      "sha256": "c4f030a2cba7da7cdcf493257c24560e203d355904aee490d645a935842f834a"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Net.Http.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Net.Http.dll",
+      "size": 122880,
+      "sha256": "31dd2ec15094027cb78457421633e24f8272a5d83792bd02f5c483339fdc948a"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Numerics.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Numerics.dll",
+      "size": 119296,
+      "sha256": "5ac2ed1d8235e6e27a7527fc159a852b1391854e35589746276377847228eb62"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Numerics.Vectors.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Numerics.Vectors.dll",
+      "size": 12288,
+      "sha256": "531308f91ecfcd854b96a0ee5e5ad3465df30781949e7f6308ce2914869f0dd8"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Reflection.Metadata.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Reflection.Metadata.dll",
+      "size": 466560,
+      "sha256": "c03b73b3ae01363313d151ad9fb77c3dff378814bdeb12b9b435a6d50f40b833"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
+      "size": 19256,
+      "sha256": "fd67abc4c4af10affbcd42fd68a2a7bc361b26714afe6965d4d0d139459d8297"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Runtime.dll",
+      "size": 12288,
+      "sha256": "e0a7334b7ba419aaab6bd3bb6992d693e689341a9178172c9bf99c2aa6a085bd"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Runtime.Serialization.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Runtime.Serialization.dll",
+      "size": 934400,
+      "sha256": "5b7219b02b2724941f532f6806cc6402b7b413be0161f8994364ebb80b045330"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Security.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Security.dll",
+      "size": 320000,
+      "sha256": "a51236aca52e7f43a5d236667aeee4c29b74f05e70ed4e66f23bd01f1219471d"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.ServiceModel.Internals.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.ServiceModel.Internals.dll",
+      "size": 215040,
+      "sha256": "10362190426d7f2feb552223ebcec5dea0fb33c2ec2e4b512832ddbad2d3fbea"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Text.Encoding.CodePages.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Text.Encoding.CodePages.dll",
+      "size": 760976,
+      "sha256": "eaf68151619943ab2dc46247f2d22a29de0ea3805a56de0c32b75af12f89e74c"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Text.Encodings.Web.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Text.Encodings.Web.dll",
+      "size": 79120,
+      "sha256": "5ad1f348223f281c34b9b857445a1c3412a430026ef049aeac641c53a92408be"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Text.Json.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Text.Json.dll",
+      "size": 608520,
+      "sha256": "42a3d66464aa3f52202a625fb8d719663ceae07678081253b54d6ed56a95ea0a"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Threading.Channels.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Threading.Channels.dll",
+      "size": 75952,
+      "sha256": "31c7e3704c0477c53d9306362dc6abe741088efb7a7b4e46cded0169cf7bb0b2"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Threading.Tasks.Extensions.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Threading.Tasks.Extensions.dll",
+      "size": 5120,
+      "sha256": "96150abdca5df4446b376560e069d59b3550212deda8cbdd316272f6b834f597"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Transactions.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Transactions.dll",
+      "size": 35328,
+      "sha256": "8a962b8b8a99a111bd765d090cf27605f0e84911354d7b272cd2ef484bd117c7"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Xml.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Xml.dll",
+      "size": 3160064,
+      "sha256": "22362d813e444a18592ec32a56731dd4265362bc8b2c2aab76a1816f2d7d679e"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/System.Xml.Linq.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/System.Xml.Linq.dll",
+      "size": 136704,
+      "sha256": "eee68bc1879f7a5007752aa31db5640a6ec8f5f18aecd40c92d38989758f795b"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Telepathy.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Telepathy.dll",
+      "size": 20992,
+      "sha256": "ade6a5c428d4fccb2341c9990d2e6920235420facf34984188a8893782dde66b"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.2D.Animation.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.2D.Animation.Runtime.dll",
+      "size": 94720,
+      "sha256": "1535f68c941eaf9d6f86d309293ee25b425798520996825891b786c3cad96d22"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.2D.Common.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.2D.Common.Runtime.dll",
+      "size": 59392,
+      "sha256": "e476423d6114353ed5a3812ee66e2eb9b7c5e282f495e5803f52e66d76bffbbf"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.2D.IK.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.2D.IK.Runtime.dll",
+      "size": 41472,
+      "sha256": "7976cffff047ce1093fac193e189e34baca4a53c89d0fb29033290005991e681"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.2D.PixelPerfect.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.2D.PixelPerfect.dll",
+      "size": 12288,
+      "sha256": "71793200ee6dd41ab04253820bd231ccf69e70b23951db68ee63e59c5aa5fa23"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.2D.SpriteShape.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.2D.SpriteShape.Runtime.dll",
+      "size": 113152,
+      "sha256": "078166d8895d8841438d3329d1786c888926eae59846140433cdfcfc983a9c8f"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.2D.Tilemap.Extras.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.2D.Tilemap.Extras.dll",
+      "size": 39936,
+      "sha256": "c694282d53f02c7318dd506bdf8f3d41589e3e3d3b5e585195225d11b98db626"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.AI.Assistant.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.AI.Assistant.Runtime.dll",
+      "size": 409088,
+      "sha256": "77779d752be689e6926b30d220888abfc3936634b770fbb105628e0972cc1717"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.AI.MCP.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.AI.MCP.Runtime.dll",
+      "size": 9728,
+      "sha256": "8f769905de393b0596a394ed3a24d1ebdf8d6907bef5997696710c9872138c83"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.AI.Navigation.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.AI.Navigation.dll",
+      "size": 24576,
+      "sha256": "c7aacad18cd89059a7f771f9a3a8144759480a1f34d245c491232ba2872c6b85"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.AI.Tracing.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.AI.Tracing.dll",
+      "size": 30720,
+      "sha256": "684497c5b103160a6222728154a17e64ac50982e79fa3cb1976e784b79e69b94"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.Burst.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.Burst.dll",
+      "size": 304640,
+      "sha256": "0058e872a667be0bbab61798413463c2787f1768c4fbeb00ef9d90f097e6d080"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.Burst.Unsafe.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.Burst.Unsafe.dll",
+      "size": 5632,
+      "sha256": "9d9c1ff52411decbee5d9f0d1cd61ebeaa222077aa77a52101ea3debafae98e2"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.Collections.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.Collections.dll",
+      "size": 454656,
+      "sha256": "49b0b0cff6be28958bb63f3eb413538acbcb42d189627bc6a22b9b938eb67543"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
+      "size": 5120,
+      "sha256": "ff50383f807f9692e4913b97e47d86fefcb8faa33d6d48cd3e3fd6fc7ffb448d"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.InferenceEngine.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.InferenceEngine.dll",
+      "size": 1279488,
+      "sha256": "045270e30d94663a45ce54f68d491648c8d3c78ffb0a9be36be9b47219da6383"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.InferenceEngine.Tokenization.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.InferenceEngine.Tokenization.dll",
+      "size": 198656,
+      "sha256": "c459fdb96f2e5072e7df2be74cda2be6f2bc3a0fb954e687b480e9fa74b9ccd1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.InputSystem.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.InputSystem.dll",
+      "size": 1137152,
+      "sha256": "834ae056b321884a650b1d09462c9cc864acb2f0bd5218cd07468b981e203561"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.InputSystem.ForUI.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.InputSystem.ForUI.dll",
+      "size": 16384,
+      "sha256": "030dd9d2179e4928c47ad6098452e901a533432660d2d55ed9f0dcc99a947f71"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
+      "size": 6656,
+      "sha256": "5888506061b93af61093b12cf1e76fb980ae26bf561eb9a7dfd24c2c8f235493"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
+      "size": 5120,
+      "sha256": "1b5ac63d41353d485e6bbbb62066d059924c8bf8d8d713be3499b1af92778eea"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.dll",
+      "size": 4096,
+      "sha256": "3e091328982f9c1112d01345d89baad0df536b6c03a215b3b9d2c86f7041a2e1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.Mathematics.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.Mathematics.dll",
+      "size": 752640,
+      "sha256": "cc2ef4f5fb371e8b7c1f6f8d4aa5efbec5d305f30e2e931fc3f1f4208e6ea834"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.Multiplayer.Center.Common.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.Multiplayer.Center.Common.dll",
+      "size": 10752,
+      "sha256": "ed2689c65daf49717c3a6dbdec6fd0e9b35a0a8491e95e82c1c797adc16f42cc"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.PathTracing.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.PathTracing.Runtime.dll",
+      "size": 152064,
+      "sha256": "0b9362bd1d5a0569b650dce0ab3f20f4ff80e27ae4ae2d85d1d715668db094ac"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "size": 9216,
+      "sha256": "cdb6b68ad6557233aac5c4453047c6b4779e8408d31ce56cea3e35638db0a7e7"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+      "size": 1208832,
+      "sha256": "e3393bc02ebca3a5b68948f41d10e909319039afd38d45bd471e752b9b51a896"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
+      "size": 5632,
+      "sha256": "91a1832b5fc93998f9574f33234a51e0f8309a7d4c1f8e76435e8d32c731d3b2"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "size": 4608,
+      "sha256": "686b4d9d132dfa13ca1440344c221e4ce4eab71ac2665d6ab8afa75fadd53561"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
+      "size": 236032,
+      "sha256": "428d93481d02c3a6a25f671c5712cf8e1f7e23413b440b08c796ccd228cd06aa"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "size": 4608,
+      "sha256": "7d1ebfdfc4d68f1deb51c81ce73d4d032c2e02d8b0b796a6e984ea9a7c9e9aa5"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
+      "size": 238592,
+      "sha256": "dee81e890eb04d3e7d166b5ef51fffa9fe54f67ffa533e3a3a0ce2bcab199b95"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+      "size": 5632,
+      "sha256": "1450a01b42bf168296c2adb42d61b125bd1a985ccabe78ed8248376376cd0dce"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+      "size": 765440,
+      "sha256": "49711e20f97cff839b26709d00fbb12f58a85acbb46e843326b17a5b828e7baf"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+      "size": 4608,
+      "sha256": "74cf96c0690eac44db193f9ef53f14449c60a34c5182973a37484166cda06ca6"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.Scripting.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.Scripting.dll",
+      "size": 74664,
+      "sha256": "0af53e5e393b83ab5e700ec5a562bfdb8cf61a04e143988482b2e780a077b7d9"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.SurfaceCache.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.SurfaceCache.Runtime.dll",
+      "size": 4096,
+      "sha256": "5349530fba2462b71ca2863f93bbc1cc422b19755daa06f0db67b201d09d59b2"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.TextMeshPro.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.TextMeshPro.dll",
+      "size": 448000,
+      "sha256": "c36f744c9bb2b9951692d5cfcbf7bf1fabd64d3dd9ed1f36fc1a0895bb9521d1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.Timeline.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.Timeline.dll",
+      "size": 134656,
+      "sha256": "9bcf5d44c0eb4a83f22f247b682cf365ed8dd8e0a6c52fb31472b716db342a73"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
+      "size": 101376,
+      "sha256": "017b8852066cf3ae0b23e845070300e19604ba26585518c303051e10f219ca76"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+      "size": 86016,
+      "sha256": "ed7ce205f66eafe39bbb5d084d42e7fe11cb4b386ff208e5d5110891be0b7b37"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.VisualScripting.Core.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.VisualScripting.Core.dll",
+      "size": 629760,
+      "sha256": "a8c77bd841c3610aded66d07990fb9ada7717f3c272a66263d59a46b328a95ac"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.VisualScripting.DocCodeExamples.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.VisualScripting.DocCodeExamples.dll",
+      "size": 7168,
+      "sha256": "e8732c390333b7376b8e2495115216a69ee231951c55028dd3ecc45b30b706f1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.VisualScripting.Flow.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.VisualScripting.Flow.dll",
+      "size": 407552,
+      "sha256": "ea9d3d42ac807809be646fc696a522edb44034ec79f6b13f8fccd5f0dbb82300"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/Unity.VisualScripting.State.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/Unity.VisualScripting.State.dll",
+      "size": 32256,
+      "sha256": "4405c0ff353b1ba8fff60723acec5d3d6467960fa73bec1b81a37d64ace8518f"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "size": 48560,
+      "sha256": "7794dd40f2d433a8d3aea277329c9ac965c02746c628c1187e134bea7e0cf565"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.AdaptivePerformanceModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.AdaptivePerformanceModule.dll",
+      "size": 116656,
+      "sha256": "0b26588db7c6dcb702dda449ee5ba1c140977fdcd385312ffdb22010019e7c95"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.AIModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.AIModule.dll",
+      "size": 75696,
+      "sha256": "72199c710a646cb42c20dc2bbd8fb783198ee94958333f78bef7b4a82d600b47"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.AMDModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.AMDModule.dll",
+      "size": 21936,
+      "sha256": "1eae2de874851ca292755bc7b4dabc74404ebb8e522b327e9d64f41279132b1c"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "size": 114600,
+      "sha256": "aef6db5f596a71c8d502d6f1210c22e4c24142193038938b1ad8e95072dca7f1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.AnimationModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.AnimationModule.dll",
+      "size": 216488,
+      "sha256": "c68f65a1b544fe7f9c353c82bcc6d1016a30d91be886ee2a8cbaee5ae099efb1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.ARModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.ARModule.dll",
+      "size": 26032,
+      "sha256": "226674da4365bc1df16366ab7d76c1048ad09eb8d3568e0865c31c43ecc267d1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "size": 41392,
+      "sha256": "c8e382548512c9af36f60183a20c225aec52a7d08209e1cb443cacac161a2d35"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.AudioModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.AudioModule.dll",
+      "size": 139184,
+      "sha256": "3badd78425bd16c8787b9b86f6eb29c33882c6058dd7791630ce313830d46eea"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.ClothModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.ClothModule.dll",
+      "size": 36776,
+      "sha256": "35cb8061b09ee7ed347735224387a510b25b1d89015141162eace50660a1c729"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "size": 28584,
+      "sha256": "7d6621c507bcc504bde8b0bf3892567d29fb39471e95234be8ea55fb723c3a4d"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "size": 27048,
+      "sha256": "71361b1f8658bbd851a359d357fa2380ec8e63cbc1f2ff08e5cfcb3ece98af9d"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.ContentLoadModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.ContentLoadModule.dll",
+      "size": 33712,
+      "sha256": "7fcc9b16b57dccb3032bb21e8bdbd015ba59e098b7920e7babedbfd10e3b6ce1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.CoreModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.CoreModule.dll",
+      "size": 1997224,
+      "sha256": "e605c51e8ac14f5913ed0ebc73ca6c9723c1e831b37fe2a61a8fc9504d94d2e6"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "size": 27056,
+      "sha256": "33d81cd80ee1b7cfe7bc368b643b7ef53e30c95aa7df835c25f2dde1dbfa5d04"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.DirectorModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.DirectorModule.dll",
+      "size": 41384,
+      "sha256": "b63f375da6e9f29e69c1b630a56b69d1ec649102bc9abf7a357cbf3f1238856a"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.dll",
+      "size": 201640,
+      "sha256": "1538a7122bf1a722e9e7e48a4b82d61169fd3cc8dddbdde353d20acd7d9e86f5"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "size": 32176,
+      "sha256": "8e79fdaef62855b68fe613c07bf9e438314d2979ad544a1100c86d2f89124a2b"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "size": 44968,
+      "sha256": "bbc46e9a7b8c9854ec1298fcec4ca61577c41240dea8465876005e3e874bb966"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.GIModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.GIModule.dll",
+      "size": 24496,
+      "sha256": "7438003c209f42854187a516c6699eac88a5d7515b706be928881ee1ff580e0c"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
+      "size": 14256,
+      "sha256": "77009562af7b5d2826d089b5a287a416c64b5d00e2cfd2592077c4d598c94eba"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.GridModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.GridModule.dll",
+      "size": 31144,
+      "sha256": "95065ce3bdc4bd7c799df97550c81355a75afc80bccae7a69ef68c06dc19b1bf"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.HierarchyCoreModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.HierarchyCoreModule.dll",
+      "size": 106416,
+      "sha256": "d9b8df7918afaf57d5f68bc9ba142a4cc38108041cd254ddd00bb9909e51f94c"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.HierarchyModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.HierarchyModule.dll",
+      "size": 97704,
+      "sha256": "d94e191d8117099913d365ead890e19e7d2d7c5064e60cd5a90f04624d725fb5"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "size": 24488,
+      "sha256": "ea0921d12f42d00eb5cded3faaa5476f69ee4f167c2e04843f04861f8b0b7975"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.IdentifiersModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.IdentifiersModule.dll",
+      "size": 15272,
+      "sha256": "df1dfe779c90a9225ada1c7cc0667fb0c62d6d9d4a5a071f51674481891f1006"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "size": 31664,
+      "sha256": "54d2a82f0ee7a06a730f4567c3bc2154e824cff854d2f3b193f08eb62d48eb5b"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "size": 180136,
+      "sha256": "836f11f21309c7cab8f8aa89704aaee2f59ed391618f0cdbe3cc94ef427f64f5"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.InputForUIModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.InputForUIModule.dll",
+      "size": 55720,
+      "sha256": "76482fc220def5c71ae6a97fac9bf13deba85d28a911957a6d54bfc54ad62535"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "size": 40872,
+      "sha256": "b440169825ce32eff4f931b1eb2d860704842a0eb4b2badaa4cd6c40299d697a"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.InputModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.InputModule.dll",
+      "size": 29096,
+      "sha256": "2a22c2fc1a8dac59236286f1ab4ba6b35e5641164cd7352dadeb76f8b631d5e0"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.InsightsModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.InsightsModule.dll",
+      "size": 14256,
+      "sha256": "064eb9a492126a70055232ff0e27df6b2bc3e88159b6041d5114a4c878430e0f"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "size": 27568,
+      "sha256": "930af39335992c9e60c415c3d240e6fccfd66ba8dc50f316759d2f989d176bf0"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "size": 27568,
+      "sha256": "60b07ac8f0f2cbf735514698fdf0d5f289fb11e30bf5c2568dc821c63e5113e4"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.MarshallingModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.MarshallingModule.dll",
+      "size": 83376,
+      "sha256": "661d9898cd327a210fcc0d4a79c0b51b60a25269a166b50fc4155e6b67103626"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.MultiplayerModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.MultiplayerModule.dll",
+      "size": 18344,
+      "sha256": "a92b0ec679258a91dc5e6db23b584eefff7e6ed88185392d256253254f24743c"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.NVIDIAModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.NVIDIAModule.dll",
+      "size": 39848,
+      "sha256": "0ed785617af260741682a4b12199820b480bf2c48b27f26aea291fc25745c7b0"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "size": 167848,
+      "sha256": "22c616335ec0b46198912816bbc69482e0f69f0c74e84c5d2d3fd8765191d711"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "size": 25520,
+      "sha256": "b48e2377b7c2711ceb9add30015899f95ecec98d004aa5b836717a245ef21032"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "size": 590768,
+      "sha256": "8fe9a0073664101193db18f4c1f60f15e82be7ffd27e67c25168e51d32c27175"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll",
+      "size": 14256,
+      "sha256": "df25f55375e9f8e211efebfa172db7537587974016b1818724098883aaf55669"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "size": 178088,
+      "sha256": "65639915ea5fe80aba0ac6afb2e1221107d76961183b178b518c2c73eb4efd91"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.PropertiesModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.PropertiesModule.dll",
+      "size": 124848,
+      "sha256": "a33315b8394d689f3772dcf6e9a1bf732177dde4904e8c5f3e19780e29aa8967"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.RenderAs2DModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.RenderAs2DModule.dll",
+      "size": 26024,
+      "sha256": "d29c3d2f3678d7af54088b4999a8b633b15fe48f8be0f36e0ae861b6158f9b90"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "size": 24488,
+      "sha256": "507065aae6008be4ce7399dc946b2659008beb58f08cf919358a7a9f9e42d419"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "size": 26544,
+      "sha256": "9ae602fcc2027c856d23fdc9935309e7e0d8b98d2a3f734c31597c3080a217d0"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.ScriptingModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.ScriptingModule.dll",
+      "size": 26544,
+      "sha256": "c14f7c073064d493f7813070479514565e182df276b9f48425b8cc278303eab8"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
+      "size": 24496,
+      "sha256": "f4afb92b02868f46b46fedb9918ca695c91d599be678ba1cef2498312efd3749"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "size": 36784,
+      "sha256": "2ed2901855e516927cfc936374ac4e720ceba9c919c3cc406c3b613caf3da6f0"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "size": 29096,
+      "sha256": "304fcec725befba4316aa47c9e1b4fd780488fb4b11801d6c9f2d76c689056fb"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "size": 32688,
+      "sha256": "b84a0ec8c5ee3378faea0c4e2003e34537055958a3ddcdf5bbebec5352137120"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.StreamingModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.StreamingModule.dll",
+      "size": 26536,
+      "sha256": "c118a76f713305db82748c336f1cef1d26c5a07d5d85b5d4b4822f41a95445dd"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "size": 29608,
+      "sha256": "53e807c8aa1ca5627710efc8e56cffc04746cdb6ff6b4a037479a9b508dce0b5"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "size": 41384,
+      "sha256": "20d79c8ec320b7c128dc07f79de33bad973c31029f796d2d1cf7557cf5b6a613"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.TerrainModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.TerrainModule.dll",
+      "size": 129448,
+      "sha256": "28d4ed4734f4b68f5fe7bed914be24cc2fed18df6200ac51ba7f45dbdc841fe3"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "size": 26024,
+      "sha256": "7f78e1123a57e7f9528d9b346d59c4cbb75eba0e16d45e3a34f617d9ff9cf518"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+      "size": 77744,
+      "sha256": "a86d19f5cf0dd0b0320f6fdfc1a7756422d2a2ecd2e9993894c9bb95adca54cb"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+      "size": 324520,
+      "sha256": "22295497a2da4d23d1883c7258ad7055365402061dcb251f32525cd7a1cb3d1c"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "size": 38320,
+      "sha256": "837bce57633e3edeb2cd6b366652dd0fa86ce80990494addd02ea400df0b56e7"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.TilemapModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.TilemapModule.dll",
+      "size": 70056,
+      "sha256": "0bae17ef933bc2d519102ee13e4097de7dbecc76d6009628a3815bfb9e2e910b"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.TLSModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.TLSModule.dll",
+      "size": 32688,
+      "sha256": "d44a9c653cc56197a69709ebe5af27376bf4d03a31a65c70dd42b23e3a898a40"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UI.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UI.dll",
+      "size": 277504,
+      "sha256": "d7ebb30cd77bec4ee015b59dc82f0a7c7bd3ffa95c7df5e499d3738012656506"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "size": 2263976,
+      "sha256": "b69fa0546a59a72c152fe442d50013697c186008ce778c7f4765f74183a99360"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UIModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UIModule.dll",
+      "size": 50096,
+      "sha256": "01aec980d1935a2b270846dd64041a6b0bda39a987a57311fd4d65c9a2f93f46"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UmbraModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UmbraModule.dll",
+      "size": 24496,
+      "sha256": "d48ba9d4deb82ad81d36de41539f8d9892ac543ab39ef1712f1dedc0de27a216"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+      "size": 35240,
+      "sha256": "1e4fd610db54cf6bcde62cb9a89cf3e425a9aaba3f82ece2e646ad0acad37c07"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "size": 59304,
+      "sha256": "30131b94a4828db17cf50b55585c5c3620322211353f3f4fa4a1f1ba55d37404"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "size": 28072,
+      "sha256": "1f459cb26c7f9e0da459ea4773614e682c6b5ae19a5a2397363c053d9ab4e23e"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityConsentModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityConsentModule.dll",
+      "size": 16304,
+      "sha256": "f49307a89cac534ddb30ce5c60ec379ef037b07751bb86bf44bd8f9596f220cd"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "size": 26544,
+      "sha256": "c4ff6de9c4044611fb64c67c591eee52932eae959d6453292f20ed2f87565cea"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "size": 29104,
+      "sha256": "fb82d9311354e6f3fc411af7eff46ce76d8a203e8fbafb76c3e3c70a9f4cbadb"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "size": 28592,
+      "sha256": "9b124a332e439749cec4e382b1695e88f10df3ba717d3237699f94da34f604ea"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "size": 66984,
+      "sha256": "a58b1ddb5ad4ec7a73c4d6bca47d1540ff012af8affc652c898fa33a787b0ff0"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "size": 28080,
+      "sha256": "f76972a83dedfde70597a8298b0169755a66ce040abd5a983dc18a72e606e782"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "size": 35760,
+      "sha256": "4524b068d01137d2e0a84bc8a85f96fe4fae05b36ba7319968df07b61ffae394"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.VectorGraphicsModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.VectorGraphicsModule.dll",
+      "size": 228272,
+      "sha256": "3aae4aa777d807a102a71124370707e7fd26a7728c7d4d76d35646036d19b3d8"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "size": 31664,
+      "sha256": "146305ec3e71cf7b67204884e4ede15e8dab11455ff251d80a2ff762c0471c77"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.VFXModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.VFXModule.dll",
+      "size": 80304,
+      "sha256": "84d214603d226ad0fbd3329c45816d86a3778d2ade49a449a4911ba87e51ff2d"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.VideoModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.VideoModule.dll",
+      "size": 48552,
+      "sha256": "e9088c00201fe43b688bc85ffc8086821af33b3dc4201c61d08235ac011072d9"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "size": 42416,
+      "sha256": "0daf8d7ba81650123b2d5abe9b3614b453af40324f9c2c11b03c5741e99e8646"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.VRModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.VRModule.dll",
+      "size": 32176,
+      "sha256": "8ea6f22f5764a4f827b6d0e861907fc59ff10375ab0eb32564d265803c29aace"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.WindModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.WindModule.dll",
+      "size": 27048,
+      "sha256": "19cbec6bc65f3c37385a36d540e342ba4ec270215baa6ea97349a595ab9f7a0c"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Managed/UnityEngine.XRModule.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Managed/UnityEngine.XRModule.dll",
+      "size": 86440,
+      "sha256": "09aba5e092ad8437f2aa171cdc6f834b3307bebc46b6667dcb061dcdaca7fe34"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Plugins/ARM64/AppUINativePlugin.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Plugins/ARM64/AppUINativePlugin.dll",
+      "size": 53680,
+      "sha256": "aa5481f1838e3392757a8661927fd61a90417491f17a9a24d753be0dfd62c9ad"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Plugins/x86_64/AppUINativePlugin.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Plugins/x86_64/AppUINativePlugin.dll",
+      "size": 52144,
+      "sha256": "f2227af57d2c01cae8a2ec2d14bc5b32c4c2ff163b4be22db26e2397e22ebbf5"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "size": 1361920,
+      "sha256": "cbfa20d127b8dfefdf458b3dc28efafbe48e41e301f397b60c1fdeae34c765a3"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Plugins/x86_64/libonigwrap.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Plugins/x86_64/libonigwrap.dll",
+      "size": 551336,
+      "sha256": "6d539f2ad6e1b58d3c8836b9c3a1d50c97cbd7a6ca0c5de25d994a7c4b1ecf42"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/resources.assets",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/resources.assets",
+      "size": 20115048,
+      "sha256": "93cc983b5015168f54195597175eb4368d1b1d755f68591bd4a84f8921881e00"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/resources.assets.resS",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/resources.assets.resS",
+      "size": 115669120,
+      "sha256": "c54e47b50de1f1e7b385f816ec0e7c1e4dfc042bb86e7c8d3548ca9bc7c07613"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Resources/unity default resources",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Resources/unity%20default%20resources",
+      "size": 5922288,
+      "sha256": "96c07875f9764ceaa248eb5715503de54e55fe87166b909330a4ae209a644f70"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/Resources/unity_builtin_extra",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/Resources/unity_builtin_extra",
+      "size": 401688,
+      "sha256": "07bc13c6dbb996f3a7fb407c1f63f9d3bd9e5c4432fcaa5e0ec55df68490af10"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/RuntimeInitializeOnLoads.json",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/RuntimeInitializeOnLoads.json",
+      "size": 8836,
+      "sha256": "1857420be909780c14ce65c564f46529201c86e3c4207d60af9ba814f1a2c0a1"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/ScriptingAssemblies.json",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/ScriptingAssemblies.json",
+      "size": 6907,
+      "sha256": "4a5f3567ca95b53b6468004cb1b6c6eef03acf0abadb44ded7cdd1a759e5753d"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/sharedassets0.assets",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/sharedassets0.assets",
+      "size": 1233220,
+      "sha256": "4436311071b22e6fa5ed4b4892e261ed6522fe74792bbe83398951e007b2ac22"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/sharedassets0.assets.resS",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/sharedassets0.assets.resS",
+      "size": 95678768,
+      "sha256": "01c4912b64312984c7710985d507401e8e6fb120ba0ef823cac0130a75670ef0"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/sharedassets1.assets",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/sharedassets1.assets",
+      "size": 26172,
+      "sha256": "9b8154075d7da8d72806599b4c0601d7d0b82094a9a6804996572a7210132923"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/sharedassets1.assets.resS",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/sharedassets1.assets.resS",
+      "size": 2621440,
+      "sha256": "79029d596f0180f54493cf88d7c8f61c1136b691a673c079047c910b431a60ff"
+    },
+    {
+      "path": "GameContent/ddProject_Game_Data/sharedassets2.assets",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/ddProject_Game_Data/sharedassets2.assets",
+      "size": 1317,
+      "sha256": "01956baabe786fc94782dc63696e5705aeeedeecc289a4d9ff27b5e7c39cbef4"
+    },
+    {
+      "path": "GameContent/DirectML.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/DirectML.dll",
+      "size": 14021152,
+      "sha256": "5ab77cc5db8e1544d386fd28586598317da8dcbef098fb86d8d8a60e739e0e5d"
+    },
+    {
+      "path": "GameContent/dstorage.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/dstorage.dll",
+      "size": 206904,
+      "sha256": "cae65787f61514bec6f012f44546e68b19e39d8854a9ab52af813370d44b272a"
+    },
+    {
+      "path": "GameContent/dstoragecore.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/dstoragecore.dll",
+      "size": 1482784,
+      "sha256": "cf85b19a92a8276f8baca0db9bbcd60735bad50768deb303d310e84d5f4fdd11"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "size": 7828912,
+      "sha256": "1838dc1d9046d011eabc8551dc8481a5217902c7e647908016e64ccae5199a96"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "size": 611240,
+      "sha256": "cd9d8521b80cbc9bf08c723dcef41489ecc672312fae17a7e9099c2b22c3ff3c"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "size": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "size": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "size": 29066,
+      "sha256": "e91782a27fa39fc6c1d6ee8b08529f5d35052310d0006034b878eb04b8f2af30"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "size": 2622,
+      "sha256": "49c6160f9d54af4270a3b4e997fc4a8301f79b9e2070118fa46ddbcbbc44f9a2"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/2.0/web.config",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/2.0/web.config",
+      "size": 11635,
+      "sha256": "cf2b54339e069b9e42f7d6795eecbf562c50c1011f4ca8f65f578fe52d97ff92"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "size": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "size": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "size": 33598,
+      "sha256": "e60aec2c5115d65b3acb3c55ea21576dbd770f579166c017125571e46ae560ed"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "size": 2622,
+      "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/4.0/web.config",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/4.0/web.config",
+      "size": 18802,
+      "sha256": "e38bb8cc68fe5b4edecdfd288d094b9e8ced7629039b2a347682aba0d8bd7492"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "size": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "size": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "size": 34056,
+      "sha256": "ee950004b576fb28dc85f4b0435ed04bf96612de2e8b53be84d07afe85a0de6c"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "size": 2622,
+      "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/4.5/web.config",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/4.5/web.config",
+      "size": 18811,
+      "sha256": "c4cbddd4fd9347b58cc5a72b36dc4ba1ad2bb699e65869d05cd3fb9865f0d824"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/browscap.ini",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/browscap.ini",
+      "size": 311984,
+      "sha256": "4ddd50f31fb968f30bedefc253a46dc3f2890192d05cdaa9e0a64a056eee807e"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/config",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/config",
+      "size": 3815,
+      "sha256": "5776169973a26a387b8b3e5c0f2301a7ab9a6dd7c7d3efa22a96abc47fbf8662"
+    },
+    {
+      "path": "GameContent/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "size": 25817,
+      "sha256": "0c56e34c69124510fa8c19e7b4c2ca6c1c4ff460ae19f798dd0ca035809e396d"
+    },
+    {
+      "path": "GameContent/UnityCrashHandler64.exe",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/UnityCrashHandler64.exe",
+      "size": 1602480,
+      "sha256": "5fda4903b675311a254b392b130b79cb85b41eca82b5be92e5fb8bda9bbc7aff"
+    },
+    {
+      "path": "GameContent/UnityPlayer.dll",
+      "url": "https://raw.githubusercontent.com/AhmedHammouda5000/TheGame/main/GameContent/UnityPlayer.dll",
+      "size": 36927400,
+      "sha256": "e64ab2a3550f429a8923b5296cbd4172a397cba227e2e37b561b2266d3b16889"
+    }
+  ]
+}
