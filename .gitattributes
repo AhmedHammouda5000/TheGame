@@ -1,2 +1,4 @@
+# Serve every file byte-exact: this repo is an update CDN, never normalize line endings
+* -text
 *.ress filter=lfs diff=lfs merge=lfs -text
 *.resS filter=lfs diff=lfs merge=lfs -text
